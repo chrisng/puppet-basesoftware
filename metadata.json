@@ -1,0 +1,14 @@
+{
+  "name": "chrisng-basesoftware",
+  "version": "0.1.0",
+  "author": "chrisng",
+  "summary": "Basic software for Redhat & Ubuntu systems",
+  "license": "The MIT License (MIT)",
+  "source": "https://github.com/chrisng/puppet-base-software",
+  "project_page": "https://github.com/chrisng/puppet-base-software",
+  "issues_url": "https://github.com/chrisng/puppet-base-software/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
